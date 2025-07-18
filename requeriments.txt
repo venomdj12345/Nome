@@ -1,0 +1,5 @@
+Flask==3.0.0
+gunicorn==21.2.0
+git add Procfile
+git commit -m "Adiciona Procfile para Render"
+git push origin main
