@@ -1,3 +1,0 @@
-2025-07-17 20:07:43 | IP: 127.0.0.1 | Navegador: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36 | Nome: John Maicon | Email: johnmaicon515@gmail.com | Senha: john12345john
-2025-07-17 20:14:28 | IP: 127.0.0.1 | Navegador: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36 | Nome: John Maicon | Email: john@gmail | Senha: jojojo
-2025-07-17 20:37:24 | IP: 127.0.0.1 | Navegador: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36 | Nome: John Maicon | Email: john@gmail | Senha: jojojo
