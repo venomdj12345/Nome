@@ -1,2 +1,5 @@
 Flask==3.0.0
 gunicorn==21.2.0
+git add requirements.txt
+git commit -m "Adiciona requirements.txt"
+git push origin main
